@@ -11,3 +11,4 @@ function alphabetPosition(text) {
 module.exports = {
   alphabetPosition:alphabetPosition
 }
+alphabetPosition("WORD UP");
